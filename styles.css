@@ -1,0 +1,76 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#wrapper{
+	width: 950px;
+	height: 400px;
+	margin: 0px auto;
+	overflow: hidden;
+	border: 2px solid black;
+}
+#logo{
+	margin-top: 5px;
+	display: inline-block;
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	background-color: black;
+	vertical-align: top;			
+}
+hr{
+	width: 360px;
+	margin: 50px 5px 0px 5px;
+	color: black;
+	height: 2px;
+	background-color: black;
+	border: 1px solid black;
+	display: inline-block;
+}
+#logo p{
+	display: inline-block;
+	position: relative;
+	right: 7px;
+	top: 50px;
+	color: white;
+	font-weight: bold;
+	font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace;
+	font-size: 20px;
+}
+#header img{
+	width: 30px;
+	height: 30px;
+}
+#img_profile{
+	width: 200px;
+	height: 200px;
+	border: 3px solid black;
+	padding: 4px;
+	border-radius: 50%;
+	margin-left: 60px;
+}
+input{
+	border: 1px solid #016CAA;
+	background: linear-gradient(to bottom, rgba(197,222,234,1) 0%,rgba(138,187,215,1) 11%,rgba(6,109,171,1) 100%);
+	border-radius: 15px;
+	width: 120px;
+	height: 40px;
+	color: white;
+	font-weight: bold;
+}
+#content_detail{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 50px;
+}
+#btn_detial{
+	display: inline-block;
+	vertical-align: top;
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+	margin-left: 350px;
+}
+h1, p{
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+	margin-left: 25px;
+}
+
